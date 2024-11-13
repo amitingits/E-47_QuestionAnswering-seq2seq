@@ -1,6 +1,10 @@
 # BART Implementaion for Question Answering seq2seq model.
 
-**Directory Guide**
+**1. Question Answering**:
+   - Use context and questions as inputs, e.g., `"question: <your question> context: <context>"`.
+   - The model returns answers based on context using a question-prompt format.
+
+**2. Directory Guide**
 
 The Implementation app has been deployed on Hugging Face Spaces, and can be accessed by the following link: [Click Here](https://huggingface.co/spaces/amithugs/Seq2Seq-Question-Answering)
 
