@@ -1,0 +1,7 @@
+{"time":"2024-11-12T16:53:33.210758603Z","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmpdnvolriw/port-1328.txt","pid":1328,"debug":false,"disable-analytics":false}
+{"time":"2024-11-12T16:53:33.2108192Z","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-11-12T16:53:33.218904815Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":1328}
+{"time":"2024-11-12T16:53:33.221820435Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":38693,"Zone":""}}
+{"time":"2024-11-12T16:53:33.406584856Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:52984"}
+{"time":"2024-11-12T16:53:33.563085399Z","level":"INFO","msg":"handleInformInit: received","streamId":"wn0z1d0r","id":"127.0.0.1:52984"}
+{"time":"2024-11-12T16:53:33.673080289Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"wn0z1d0r","id":"127.0.0.1:52984"}

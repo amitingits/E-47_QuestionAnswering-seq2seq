@@ -1,0 +1,38 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-11-12T16:53:33.560830Z",
+  "program":  "notebook83c122e49f",
+  "email":  "jvibhor74@gmail.com",
+  "root":  "/content",
+  "host":  "9647799f2f04",
+  "username":  "root",
+  "executable":  "/usr/bin/python3",
+  "colab":  "https://colab.research.google.com/notebook#fileId=https://storage.googleapis.com/kaggle-colab-exported-notebooks/notebook83c122e49f-0f5fe403-e803-4b0b-97c8-640eb82b0ca6.ipynb?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com/20241112/auto/storage/goog4_request&X-Goog-Date=20241112T164656Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=8d8f5d77227bea595d8872ec754a49f40004c7632dd5e700e2f562b61ebad15368c8469ca82255fcae61a5558f2600b498adda1b24aabbdd23a0d3c9e1a0fff0eae8c82fe9293916219e88c86cd53c1bdd3da39e7b826d9ec094db60017dd8d75e778996afd7601e6d00738ef5ee476033bbb802d97a8975c9a5b05b05c7bb15670e33428e165fa6116a6faf3746a51cece661b0f325a301b772076819e3dbe8a42c9fcb43254f9bfc43ce5994835102d8cebb417ec6185ae5403382c16f0ede28721f65493140a1943d90326ed14ccc9f07852b8777c427076b752d94681678b8bc05909c85f98ce6c1086ac5df08ae12c116f6306a7b29fde9dab7b989f7ce",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "35642023936"
+    }
+  },
+  "memory":  {
+    "total":  "13609431040"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}
