@@ -46,14 +46,16 @@ The **Question Answering (Seq2Seq)** project is an innovative **Natural Language
 ---
 
 ## **📂 Repository Contents**  
+1. **`code` folder:**  
+   - Folder consisting of contents of project development files.
 
-1. **E47_report:**  
+2. **E47_report:**  
    - In-depth details of the project's development and implementation.  
 
-2. **E47_miniRsrch:**  
+3. **E47_miniRsrch:**  
    - Research paper draft summarizing the project’s theoretical foundation and experimental results.  
 
-3. **E47_presentation:**  
+4. **E47_presentation:**  
    - A concise and visually engaging presentation designed for showcasing the project.  
 
 ---
@@ -110,6 +112,3 @@ The **Question Answering (Seq2Seq)** project is an innovative **Natural Language
 
 **🔖 Created with ❤️ by Team E-47.**  
 
---- 
-
-Let me know if you'd like further customizations! 😊
