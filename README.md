@@ -57,7 +57,19 @@ The **Question Answering (Seq2Seq)** project is an innovative **Natural Language
    - A concise and visually engaging presentation designed for showcasing the project.  
 
 ---
+## **💡 Correction made after final evaluation:**  
 
+1. **Table format of group members removed** from the front page of the **report.**
+2. **Output section removed** from the **report.**
+3. **Year Session updated** in the **Presentation.**
+4. **Deployment code** of BART  model added to the **github repository.**
+
+**Links to the documents:**
+- **Project Documentation:** [E47_report](./E47_report.pdf)  
+- **Research Paper Draft:** [E47_miniRsrch](./E47_miniRsrch.pdf)  
+- **Project Presentation:** [E47_presentation](./E47_presentation.pdf)  
+
+---
 ## **🚀 Quick Start**  
 
 1. Clone this repository:  
@@ -93,14 +105,6 @@ The **Question Answering (Seq2Seq)** project is an innovative **Natural Language
    ```bash  
    python app.py  
    ```  
-
----
-
-## **🔗 Useful Links**  
-
-- **Project Documentation:** [E47_report](./E47_report.pdf)  
-- **Research Paper Draft:** [E47_miniRsrch](./E47_miniRsrch.pdf)  
-- **Project Presentation:** [E47_presentation](./E47_presentation.pdf)  
 
 ---
 
