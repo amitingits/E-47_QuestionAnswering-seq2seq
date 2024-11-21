@@ -54,4 +54,4 @@ This repository contains the implementation of a **BART (Bidirectional and Auto-
 - **Main Repository**: [E-47_QuestionAnswering-seq2seq](https://github.com/amitingits/E-47_QuestionAnswering-seq2seq)  
 
 
-**🔖 Created with ❤️ by Team E-47.**  
+**🔖 Created with ❤️ by AMIT DAS.**  
