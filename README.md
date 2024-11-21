@@ -1,29 +1,111 @@
-# Team-E-47
-**Project : Questioning/Answering (seq2seq)**  
-__Team Mentor : Amit Pandey__
+# 🌟 Team E-47: Question Answering (Seq2Seq) 🌟  
 
-Team Members : 
-| Name  | Roll No |
-| --- | --- |
-| Amit Das| UGMR20230001 |
-| Vibhor Joshi | UGMR20230003 |
-| Shilpa Tichkule | UGMR20230009 |
-| Medhavi Nasare | UGMR20230011 |
-| Sanika Nandurkar | UGMR20230036 |
+**🔰 Team Mentor:** *Amit Pandey*  
+**🌟 Project Repository:** [E-47_QuestionAnswering-seq2seq](https://github.com/amitingits/E-47_QuestionAnswering-seq2seq)  
 
+---
 
+## **👥 Meet the Team!**  
 
-# Introduction
-The __Questioning/Answering (Seq2Seq)__ project is an advanced Natural Language Processing (NLP) initiative designed to develop a sequence-to-sequence (Seq2Seq) model for generating answers to questions based on provided context. This project leverages state-of-the-art machine learning techniques to facilitate effective communication between humans and machines, making it a valuable tool for various applications, including chatbots, educational tools, and information retrieval systems.
-# Objectives
-The primary objectives of this project are to:
-* Implement a Seq2Seq model for question answering tasks.
-* Train the model on diverse datasets to enhance its ability to understand and generate human-like responses.
-* Evaluate the model's performance using standard metrics and benchmarks.
-* Provide a user-friendly interface for easy interaction with the model.
-# Features
-* __<ins>Seq2Seq Model Architecture:</ins>__ Utilizes encoder-decoder architecture for processing input questions and generating coherent answers.
-* __<ins>Preprocessing Pipeline:</ins>__ Includes data cleaning, tokenization, and embedding techniques to prepare input data for training.
-* __<ins>Training and Evaluation:</ins>__ Comprehensive training scripts with options for hyperparameter tuning and evaluation metrics to assess model performance.
-* __<ins>User Interface:</ins>__ A simple command-line or web-based interface for users to input questions and receive answers in real-time.
-* __<ins>Documentation and Examples:</ins>__ Detailed documentation and example use cases to help users understand how to utilize the model effectively.
+| **Name**           | **Roll No**     |  
+|---------------------|-----------------|  
+| Amit Das           | UGMR20230001   |  
+| Vibhor Joshi       | UGMR20230003   |  
+| Shilpa Tichkule    | UGMR20230009   |  
+| Medhavi Nasare     | UGMR20230011   |  
+| Sanika Nandurkar   | UGMR20230036   |  
+
+---
+
+## **📝 Project Overview**  
+
+The **Question Answering (Seq2Seq)** project is an innovative **Natural Language Processing (NLP)** endeavor that aims to create an advanced sequence-to-sequence model capable of answering questions with precision and context awareness. This project harnesses state-of-the-art machine learning techniques to bridge the communication gap between humans and machines, paving the way for applications like:  
+- Intelligent chatbots  
+- Interactive educational tools  
+- Enhanced information retrieval systems  
+
+---
+
+## **🎯 Objectives**  
+
+1. Implement a **Seq2Seq model** tailored for question-answering tasks.  
+2. Train the model on diverse datasets for robust understanding and generation of human-like responses.  
+3. Assess model performance using industry-standard metrics and benchmarks.  
+4. Deliver an intuitive, user-friendly interface for seamless interaction with the model.  
+
+---
+
+## **💡 Features**  
+
+- **🚀 Seq2Seq Model Architecture:** Leverages a cutting-edge encoder-decoder framework to understand input questions and generate coherent answers.  
+- **🔧 Preprocessing Pipeline:** A comprehensive data preparation system that includes **data cleaning, tokenization**, and **embedding techniques**.  
+- **📊 Training & Evaluation:** Fully equipped scripts for model training, hyperparameter tuning, and performance benchmarking.  
+- **🖥️ User-Friendly Interface:** Provides a **command-line** or **web-based interface** for real-time question-answering interaction.  
+- **📖 Documentation & Examples:** Offers detailed guides and practical use cases to help users utilize the model effectively.  
+
+---
+
+## **📂 Repository Contents**  
+
+1. **E47_report:**  
+   - In-depth details of the project's development and implementation.  
+
+2. **E47_miniRsrch:**  
+   - Research paper draft summarizing the project’s theoretical foundation and experimental results.  
+
+3. **E47_presentation:**  
+   - A concise and visually engaging presentation designed for showcasing the project.  
+
+---
+
+## **🚀 Quick Start**  
+
+1. Clone this repository:  
+   ```bash  
+   git clone https://github.com/amitingits/E-47_QuestionAnswering-seq2seq.git  
+   ```
+
+2. Navigate to the project directory:  
+   ```bash  
+   cd E-47_QuestionAnswering-seq2seq
+   ```
+
+3. For Accessing the .ipynb files, navigate to:
+   ```bash  
+   cd code/BART
+   ```
+   or
+   ```bash  
+   cd code/T5
+   ```
+4. Navigate to deployment sub directory for the working project(For BART only):
+   ```bash  
+   cd deployment
+   ```
+   View the Deployed project : [Project Link](https://huggingface.co/spaces/amithugs/Seq2Seq-Question-Answering) 
+   
+6. Install dependencies:  
+   ```bash  
+   pip install -r requirements.txt  
+   ```  
+
+7. Run the model interface:  
+   ```bash  
+   python app.py  
+   ```  
+
+---
+
+## **🔗 Useful Links**  
+
+- **Project Documentation:** [E47_report](./E47_report)  
+- **Research Paper Draft:** [E47_miniRsrch](./E47_miniRsrch)  
+- **Project Presentation:** [E47_presentation](./E47_presentation)  
+
+---
+
+**🔖 Created with ❤️ by Team E-47.**  
+
+--- 
+
+Let me know if you'd like further customizations! 😊
