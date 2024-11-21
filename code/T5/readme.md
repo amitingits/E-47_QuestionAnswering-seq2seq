@@ -1,6 +1,4 @@
-Here’s the updated `README.md` for the **T5 Model Summarization and Question Answering** folder:  
 
----
 
 # **T5 Model for Summarization and Question Answering**
 
