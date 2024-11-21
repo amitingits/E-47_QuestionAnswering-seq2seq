@@ -1,19 +1,57 @@
-# BART Implementaion for Question Answering seq2seq model.
 
-**1. Question Answering**:
-   - Use context and questions as inputs, e.g., `"question: <your question> context: <context>"`.
-   - The model returns answers based on context using a question-prompt format.
+# **BART Implementation for Question Answering (Seq2Seq) Model**
 
-**2. Directory Guide**
+---
 
-The Implementation app has been deployed on Hugging Face Spaces, and can be accessed by the following link: [Click Here](https://huggingface.co/spaces/amithugs/Seq2Seq-Question-Answering)
+## **📖 Overview**  
 
-This is the subfolder of implementation using BART Model.
+This repository contains the implementation of a **BART (Bidirectional and Auto-Regressive Transformer)** model designed for **Question Answering** tasks using a Seq2Seq approach. The model utilizes contextual inputs and question prompts to generate accurate and coherent answers.  
 
-The 'outputResult' folder contains the files associated with the training runs and logs.
+---
 
-The 'saved_models' folder includes the models saved after training them.
+## **🚀 How It Works**  
 
-The 'wandb' folder contains all the logs and files associated with the weights and biases platform.
+1. **Question Answering Process**:  
+   - Input format:  
+     ```
+     "question: <your question> context: <context>"
+     ```  
+   - The model processes this input to generate answers that align with the provided context.  
 
-"BART_final.ipynb" is the notebook containing all the codes implemented to implement the BART model for question and answering seq2seq model.
+2. **Deployment**:  
+   - The implementation has been deployed on **Hugging Face Spaces** for real-time interaction.  
+   - Access the live application here: [Hugging Face Spaces](https://huggingface.co/spaces/amithugs/Seq2Seq-Question-Answering)  
+
+---
+
+## **📂 Directory Guide**  
+
+### **Implementation Files**  
+- **`BART_final.ipynb`**:  
+  - The main notebook containing all codes for training and fine-tuning the BART model for question-answering tasks.  
+
+### **Output and Logs**  
+- **`outputResult`**:  
+  - Contains training run files, logs, and evaluation metrics.  
+
+### **Saved Models**  
+- **`saved_models`**:  
+  - Includes models saved after training, ready for deployment or further evaluation.  
+
+### **Weights and Biases**  
+- **`wandb`**:  
+  - Stores logs, training visualizations, and analytics generated using the **Weights and Biases (W&B)** platform.  
+
+### **Deployment Scripts**  
+- **`deployment` folder**:  
+  - Contains scripts and requirements files for deploying the project on platforms like Hugging Face Spaces or other hosting environments.  
+
+---
+
+## **🔗 Useful Links**  
+
+- **Live Application**: [Seq2Seq-Question-Answering on Hugging Face](https://huggingface.co/spaces/amithugs/Seq2Seq-Question-Answering)  
+- **Main Repository**: [E-47_QuestionAnswering-seq2seq](https://github.com/amitingits/E-47_QuestionAnswering-seq2seq)  
+
+
+**🔖 Created with ❤️ by Team E-47.**  
