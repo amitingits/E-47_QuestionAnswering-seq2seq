@@ -98,9 +98,9 @@ The **Question Answering (Seq2Seq)** project is an innovative **Natural Language
 
 ## **🔗 Useful Links**  
 
-- **Project Documentation:** [E47_report](./E47_report)  
-- **Research Paper Draft:** [E47_miniRsrch](./E47_miniRsrch)  
-- **Project Presentation:** [E47_presentation](./E47_presentation)  
+- **Project Documentation:** [E47_report](./E47_report.pdf)  
+- **Research Paper Draft:** [E47_miniRsrch](./E47_miniRsrch.pdf)  
+- **Project Presentation:** [E47_presentation](./E47_presentation.pdf)  
 
 ---
 
